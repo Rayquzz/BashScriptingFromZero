@@ -20,7 +20,7 @@ case $class in
 		attack=4
 		;;
 	3)
-		type"Prophet"
+		type="Prophet"
 		hp=30
 		attack=4
 		;;

@@ -45,7 +45,6 @@ bash eldenring.sh
 2. **First battle** — Guess a number between `0` and `1` to defeat the beast.
 3. **Boss battle** — Face Margit by guessing a number between `0` and `9`.
 
-> **Note:** There is a known syntax error on the Prophet class line (`type"Prophet"` is missing the `=` sign) that will cause the script to fail if that class is selected. Fix it with `type="Prophet"` to resolve.
 
 ---
 
